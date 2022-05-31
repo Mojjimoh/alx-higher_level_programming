@@ -1,0 +1,1 @@
+This repo entails all high level programing I will be learing althrough. 
