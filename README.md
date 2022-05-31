@@ -1,1 +1,1 @@
-This repo entails all high level programing I will be learing althrough. 
+This repo entails all high level programming I will be learning althrough the course.
